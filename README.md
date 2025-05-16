@@ -26,4 +26,4 @@ Tap/click/press to make the bird fly! Avoid the pipes and beat your high score.
 1. Clone the repo:
    ```bash
    git clone https://github.com/Tusharchhipekar/Flappybird-game.git
-   cd flappy-bird
+   cd Flappybird-game
